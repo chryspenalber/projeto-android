@@ -1,26 +1,24 @@
-# Olá, eu sou a Chrystiana! 👋
+# Projeto Página Android
 
-Me formei em hotelaria, mas sempre fui uma aspirante à tecnologia. Em 2022 decidi fazer uma transição de carreira. Hoje sou uma estudante do Tech Academy na StartSe e também do Curso em Video.
+Projeto executado com base nas aulas do Curso em Vídeo.
 
-# HTML e CSS
+# Linguagens utilizadas
 
-Esse é o meu repositório no GitHub.
-
-Aqui você poderá ver os meus projetos realizados durante os estudos na Tech Academy da StartSe e no CursoemVideo.
+Para esse projeto, foram utilizadas a linguagem de marcação HTML e estilo em CSS.
 
 
 
-## Projetos
+## Veja Meus Outros Projetos
 
 [Viagens](https://chryspenalber.github.io/projeto-viagens/index.html)
 
 [Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/Aulao.html)
 
-[Android](https://chryspenalber.github.io/projeto-android/android.html)
-
 [Cordel](https://chryspenalber.github.io/projeto-cordel/index.html)
 
-[Hércules](https://chryspenalber.github.io/projeto-hercules/Hercules.html)
+[Hércules](https://chryspenalber.github.io/projeto-hercules/hercules_index.html)
+
+[Hora Certa](https://chryspenalber.github.io/projeto-hora-certa/index.html)
 
 
 ## 🔗 Links
