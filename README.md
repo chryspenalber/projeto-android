@@ -6,7 +6,7 @@ Projeto executado com base nas aulas do Curso em Vídeo.
 
 Para esse projeto, foram utilizadas a linguagem de marcação HTML e estilo em CSS.
 
-## Link para visualizar no navegador
+## Visualizar no navegador
 
 [Android](https://chryspenalber.github.io/projeto-android/android.html)
 
