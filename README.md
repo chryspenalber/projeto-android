@@ -2,13 +2,15 @@
 
 Projeto executado com base nas aulas do Curso em Vídeo.
 
-# Linguagens utilizadas
+## Linguagens utilizadas
 
 Para esse projeto, foram utilizadas a linguagem de marcação HTML e estilo em CSS.
 
+## Link para visualizar no navegador
 
+[Android](https://chryspenalber.github.io/projeto-android/android.html)
 
-## Veja Meus Outros Projetos
+## Veja meus outros Projetos
 
 [Viagens](https://chryspenalber.github.io/projeto-viagens/index.html)
 
@@ -21,7 +23,7 @@ Para esse projeto, foram utilizadas a linguagem de marcação HTML e estilo em C
 [Hora Certa](https://chryspenalber.github.io/projeto-hora-certa/index.html)
 
 
-## 🔗 Links
+## 🔗 Redes
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrystiana-penalber-81876433/)
 
