@@ -14,7 +14,7 @@ Para esse projeto, foram utilizadas a linguagem de marcação HTML e estilo em C
 
 [Viagens](https://chryspenalber.github.io/projeto-viagens/index.html)
 
-[Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/Aulao.html)
+[Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/index.html)
 
 [Cordel](https://chryspenalber.github.io/projeto-cordel/index.html)
 
